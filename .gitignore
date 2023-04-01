@@ -30,5 +30,5 @@ bin/
 .gitignore
 cs116.iml
 target
-.idea
+.idea/*
 *.jar
